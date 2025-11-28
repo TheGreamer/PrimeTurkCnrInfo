@@ -1,0 +1,4 @@
+FF0000|Tip: Sliding Text|00FF00
+00FF00|Tip: Sliding Text|0000FF
+0000FF|Tip: Sliding Text|FFFFFF
+FFFFFF|Tip: Sliding Text|FF0000

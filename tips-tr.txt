@@ -1,0 +1,4 @@
+FF0000|İpucu: Kayan yazı|00FF00
+00FF00|İpucu: Kayan yazı|0000FF
+0000FF|İpucu: Kayan yazı|FFFFFF
+FFFFFF|İpucu: Kayan yazı|FF0000
