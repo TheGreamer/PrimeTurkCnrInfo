@@ -1,4 +1,4 @@
-#FF0000|İpucu: Kayan yazı (deneme) (1)
-#00FF00|İpucu: Kayan yazı (deneme) (2)
-#0000FF|İpucu: Kayan yazı (deneme) (3)
-#FFFFFF|İpucu: Kayan yazı (deneme) (4)
+FF0000|İpucu: Kayan yazı (deneme) (1)
+00FF00|İpucu: Kayan yazı (deneme) (2)
+0000FF|İpucu: Kayan yazı (deneme) (3)
+FFFFFF|İpucu: Kayan yazı (deneme) (4)
